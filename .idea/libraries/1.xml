@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="代码1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/day01/springMVC-demo1/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day02/springMVC-demo2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day03/springMVC-demo3/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day03/springMVC-jsp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day04/springMVC-demo4/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day04/springMVC-rest/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day05/springMVC-annotation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/day05/springMVC-demo5/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
